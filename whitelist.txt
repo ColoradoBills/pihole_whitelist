@@ -1,0 +1,79 @@
+# Google / YouTube / YouTube TV
+google.com
+www.google.com
+ssl.google-analytics.com
+youtube.com
+www.youtube.com
+ytimg.com
+i.ytimg.com
+s.ytimg.com
+youtubei.googleapis.com
+youtube.googleapis.com
+yt3.ggpht.com
+yt4.ggpht.com
+yt5.ggpht.com
+
+# Netflix
+netflix.com
+www.netflix.com
+api-global.netflix.com
+nflxext.com
+nflximg.net
+nflxso.net
+nflxvideo.net
+
+# Disney+
+disneyplus.com
+www.disneyplus.com
+bam.nr-data.net
+bamgrid.com
+disney.demdex.net
+disneyplus.com.ssl.sc.omtrdc.net
+
+# Peacock
+peacocktv.com
+www.peacocktv.com
+uplynk.com
+akamaized.net
+
+# Amazon / Prime Video
+amazon.com
+www.amazon.com
+images-na.ssl-images-amazon.com
+fls-na.amazon.com
+primevideo.com
+atv-ext.amazon.com
+amazonvideo.com
+avs-alexa-na.amazon.com
+
+# Xbox / Microsoft
+xbox.com
+xboxlive.com
+live.com
+microsoft.com
+www.microsoft.com
+client-s.gateway.messenger.live.com
+xsts.auth.xboxlive.com
+user.auth.xboxlive.com
+title.auth.xboxlive.com
+
+# Bambu Lab
+bambulab.com
+bambulab.us
+www.bambulab.com
+cloud.bambulab.com
+bambulab-v1-1253497654.cos.ap-shanghai.myqcloud.com
+
+# MLB TV
+mlb.com
+www.mlb.com
+bamtechmedia.com
+mlbstatic.com
+
+# Streaming CDNs / APIs
+akamaized.net
+llnwd.net
+cdn.optimizely.com
+edgecastcdn.net
+conviva.com
+video-cdn.net
